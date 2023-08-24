@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+td{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+input[type=text],input[type=number],input[type=email]{
+    height: 25px;
+    width: 450px;
+    font-size: medium;
+}
+
+textarea{
+    height: 300px;
+    width: 450px;
+    resize: none;
+
+}
+
+input[type=submit],input[type=reset]{
+    height: 30px;
+    width: 100px;
+    background-color: grey;
+}
+.error{
+    color: tomato;
+}
+.success{
+    color: green;
+}
+
+.message{
+    font-size: 18px;
+    background-color: beige;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
