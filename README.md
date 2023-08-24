@@ -54,6 +54,9 @@
 3. When form submit successfully
    
    ![image](https://github.com/akashtripathy/php_assignment_techsolv/assets/55340850/9d23f2d8-d108-4182-bf1a-481adfea4c6c)
+4. Mail Send to Owner
+
+   ![image](https://github.com/akashtripathy/php_assignment_techsolv/assets/55340850/41f6c403-de6b-4d4c-b02c-80e1d42985f4)
 
 
 
